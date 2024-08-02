@@ -9,23 +9,10 @@ This project is a task management system designed to help users manage their tas
 - **User Interface**: Intuitive dashboard for managing tasks.
 - **Notifications**: Email and in-app notifications for task updates.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/task-mgt-app.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd task-mgt-app
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-1. Start the development server:
-   ```bash
+## Create a New React App:
+npx create-react-app "app name"
+cd "app name"
+Start the development server
    npm start
  
 
