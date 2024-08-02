@@ -29,8 +29,5 @@ This project is a task management system designed to help users manage their tas
    npm start
  
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 For any questions or feedback, please contact [ngusiedebalkie19@outlook.com].
