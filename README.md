@@ -17,4 +17,4 @@ Start the development server
  
 
 ## Contact
-For any questions or feedback, please contact [ngusiedebalkie19@outlook.com].
+For any questions or feedback, please contact [negudeba@gmail.com].
